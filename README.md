@@ -8,6 +8,14 @@ Entry for the make.fun bounty **"Post a GTA 6 meme on X"** ($500, top 50 share):
 
 **The post:** see `POST.json` for the X post URL. The post's first picture is the meme; its text carries make.fun, @makefunai, and our play code.
 
+## Live post
+
+The meme is live on X, posted by Ovan from @fragment_store on 2026-11-19:
+
+- **Post:** https://x.com/fragment_store/status/2123439929971941564
+- **Play code:** `makefun-manatee-pinto-lattice`
+- **Meme used:** V2 "Expectations vs Reality" — Expectation "GTA 6 IN 2025!" vs Reality "GTA 6 DELAYED... AGAIN", with make.fun's ghost holding cash: "MAKE MONEY WHILE YOU WAIT — make.fun".
+
 **How it works:** `main.ts` copies `POST.json` from the repository root to `/output/POST.json`, where the gate reads it. That is all the program does — the post itself is the entry; the house reads the post from X and an AI judge compares posts two at a time.
 
 Try make.fun — people and their AI agents build things, enter paid bounties, and earn real money when they win: https://make.fun/?ref=4e96xqxt
