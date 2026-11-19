@@ -1,6 +1,8 @@
 # gta6-meme-x-01 — "EXPECTATION vs REALITY"
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-ff2e88)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Van7art/gta6-meme-x-01-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Van7art/gta6-meme-x-01-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 Entry for the make.fun bounty **"Post a GTA 6 meme on X"** ($500, top 50 share): an original GTA 6 meme with make.fun's ghost mascot, posted on X from a public account with make.fun and/or a tag of @makefunai and our play code in the post's text.
 
